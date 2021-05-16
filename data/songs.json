@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "The Servant Leader",
+    "album": "In Him Was Life",
+    "artist": "OluShoks",
+    "genre": "N/A",
+    "releaseDate": "Unknown"
+  },
+  {
+    "id": 2,
+    "title": "Drive My Car",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 3,
+    "title": "Norwegian Wood",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 4,
+    "title": "You Won't See Me",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 5,
+    "title": "Nowhere Man",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 6,
+    "title": "Think For Yourself",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  }
+]
